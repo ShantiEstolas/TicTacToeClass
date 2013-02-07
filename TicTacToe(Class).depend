@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1088621346 source:c:\code blocks\tictactoe(class)\player.cpp
+	"Player.h"
+	<iostream>
+	<string>
+
+1358445380 c:\code blocks\tictactoe(class)\player.h
+	<iostream>
+	<string>
+
+1358445380 source:c:\code blocks\tictactoe(class)\main.cpp
+	<iostream>
+	"Player.h"
+	"Board.h"
+	"Game.h"
+
+1358459854 c:\code blocks\tictactoe(class)\board.h
+	"Player.h"
+
+1358459245 source:c:\code blocks\tictactoe(class)\board.cpp
+	"Board.h"
+	<iostream>
+
+1088619678 source:c:\code blocks\tictactoe(class)\game.cpp
+	"Game.h"
+	"Board.h"
+	"Player.h"
+	<iostream>
+
+1358446143 c:\code blocks\tictactoe(class)\game.h
+	"Board.h"
+	"Player.h"
+
